@@ -1,6 +1,6 @@
-  =>  Template Name    : CakeZone - Cake Shop Website Template
+  =>  Template Name    : Tourist - Travel Agency HTML Template
 
-  =>  Template Link    : https://htmlcodex.com/cake-shop-website-template
+  =>  Template Link    : https://htmlcodex.com/travel-agency-html-template
 
   =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
 
